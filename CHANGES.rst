@@ -4,6 +4,9 @@ Changelog
 2.5.4 (unreleased)
 ------------------
 
+- Add social meta tags viewlet
+  [vangheem]
+
 - Added support for site logos stored in the portal registry via the site
   control panel for the logo viewlet with a fallback to the ``OFS.Image``
   based ``logo.png`` file. Removed support of long-gone
